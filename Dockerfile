@@ -1,7 +1,7 @@
 # GoToSocial Image
 FROM superseriousbusiness/gotosocial:latest
 
-# Dependencies
+# LiteFS Dependencies
 RUN apk add bash fuse
 
 # FUSE Config
