@@ -1,6 +1,6 @@
 # FlyToSocial
 
-An attempt to run a GoToSocial instance at fly.io.
+An attempt to run a [GoToSocial](https://github.com/superseriousbusiness/gotosocial) instance at [fly.io](https://fly.io).
 
 > Testing has been held off due to concerns about surprise bills.
 >
